@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_Search</name>
+   <tag></tag>
+   <elementGuidId>510c4902-a368-44b2-a94a-f7cb796925cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cdx-button.cdx-button--fake-button.cdx-button--fake-button--enabled.cdx-button--weight-quiet.cdx-button--icon-only.search-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-search']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>beaaa87c-458d-4f83-9fcc-71b56cee1e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/wiki/Special:Search</value>
+      <webElementGuid>1dd35d10-b66c-49cc-8a5b-5d1800e27459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle</value>
+      <webElementGuid>0048f570-ebcd-4978-a9ee-9b9d10a52974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Search Wikipedia [alt-shift-f]</value>
+      <webElementGuid>43ab7984-55c3-48df-b37d-12548635a031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>accesskey</name>
+      <type>Main</type>
+      <value>f</value>
+      <webElementGuid>1d5fe87b-6240-465a-a2f3-62cf0a7a4956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Search
+	</value>
+      <webElementGuid>a5c02af9-ab55-4563-8cd7-78f0c65065b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-search&quot;)/a[@class=&quot;cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle&quot;]</value>
+      <webElementGuid>aa650eb3-f401-4289-ab9c-4a40171e6e21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-search']/a</value>
+      <webElementGuid>fc7a9392-0813-42da-893f-5fce56a7df6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::a[2]</value>
+      <webElementGuid>a466ab44-e667-4cae-9b69-02650494ef55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent changes'])[1]/following::a[3]</value>
+      <webElementGuid>8f12fcf1-fcfb-4586-9b1b-103a3d97f6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::a[1]</value>
+      <webElementGuid>04cb3652-7099-4546-b8a3-17f7dd40acc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/wiki/Special:Search')]</value>
+      <webElementGuid>508b130e-5b08-4981-a6c3-daa641108546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>a1498e82-bd85-42b0-811c-a119b301c514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/wiki/Special:Search' and @title = 'Search Wikipedia [alt-shift-f]' and (text() = '
+
+Search
+	' or . = '
+
+Search
+	')]</value>
+      <webElementGuid>b28d5482-a023-4d51-9f96-4549230fef1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_RobertDowneyJr</name>
+   <tag></tag>
+   <elementGuidId>96b675bb-c89e-40c4-85be-9ed538d44f53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mw-page-title-main</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='firstHeading']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Robert Downey Jr.&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06e17f2e-0377-46f8-8d2c-904fd7166e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mw-page-title-main</value>
+      <webElementGuid>81495018-f538-4cc2-b481-0b9b91a0e14c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Robert Downey Jr.</value>
+      <webElementGuid>e6414189-377c-43ab-ba17-3f2698ab9b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;firstHeading&quot;)/span[@class=&quot;mw-page-title-main&quot;]</value>
+      <webElementGuid>a89f6351-52b8-4a2b-b3d5-34476aab858f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='firstHeading']/span</value>
+      <webElementGuid>a21794ee-e4e6-4f50-acc7-b2b5c8ebba28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External links'])[1]/following::span[1]</value>
+      <webElementGuid>ce6513e9-b1b8-4e26-babc-ac94fdc1adab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='References'])[1]/following::span[3]</value>
+      <webElementGuid>a0893586-1360-45e2-8f4c-e00ae3ae974a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afrikaans'])[1]/preceding::span[3]</value>
+      <webElementGuid>fe654fab-ae74-4f54-8faa-a51dd05f79a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العربية'])[1]/preceding::span[4]</value>
+      <webElementGuid>96e302c2-1216-4ed0-aab2-6add9677ecd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Robert Downey Jr.']/parent::*</value>
+      <webElementGuid>6022dd29-e0e9-4a15-bff9-16f3827d540b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>a2f2c00b-b6cf-49ae-a77c-5f76bc2cefee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Robert Downey Jr.' or . = 'Robert Downey Jr.')]</value>
+      <webElementGuid>520e4c97-9d3a-40c8-831a-55654d34e70c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
